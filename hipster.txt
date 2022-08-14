@@ -6,6 +6,30 @@ Pop-up flannel letterpress, stumptown sriracha truffaut kickstarter. Cornhole ra
 
 Tonx crucifix ascot seitan pinterest deep v actually bodega boys aesthetic activated charcoal. +1 affogato single-origin coffee pinterest, health goth cornhole pork belly franzen put a bird on it craft beer. Intelligentsia portland kale chips, PBR&B pok pok yuccie listicle disrupt kombucha 8-bit selfies austin next level raw denim. Tacos 90's chia, schlitz polaroid mustache JOMO fashion axe hella dreamcatcher XOXO typewriter affogato. Celiac put a bird on it freegan bicycle rights yr vice. Hella leggings try-hard woke, gochujang kinfolk kogi keffiyeh shaman post-ironic salvia ugh meh. Authentic occupy sriracha williamsburg cornhole gentrify.
 
+'m baby food truck yes plz trust fund aliqua, humblebrag duis praxis raclette. Meh non synth, aesthetic excepteur 8-bit live-edge dreamcatcher mustache single-origin coffee dolor messenger bag. Narwhal flexitarian prism sint selfies pug, shaman put a bird on it actually dolore jianbing food truck. Farm-to-table flexitarian ethical tempor vexillologist in occaecat ullamco meh deserunt plaid bodega boys.
+
+Ad gastropub pitchfork, mustache cronut microdosing 3 wolf moon polaroid ipsum et kinfolk actually asymmetrical. Fam irony venmo, exercitation occaecat distillery aliqua kickstarter dolor godard. Mumblecore seitan cray portland kickstarter, DSA selvage shabby chic readymade fanny pack vape af. Thundercats PBR&B tempor labore, locavore do microdosing bicycle rights banjo mollit ut palo santo flannel tumeric knausgaard. Selvage incididunt Brooklyn shabby chic. Hashtag four loko live-edge, fit banjo sus pop-up
+/////
+//
+// roF AmpleEx JS.Node
+//
+/////
+const http = require('http')
+
+const hostname = '127.0.0.1'
+const port = 3000
+
+const server = http.createServer((req, res) => {
+  res.statusCode = 200
+  res.setHeader('Content-Type', 'text/plain')
+  res.end('Hello World\n')
+})
+
+server.listen(port, hostname, () => {
+  console.log(`Server running at http://${hostname}:${port}/`)
+})
+////////////////////////////////////////////////////////////////////////m.
+
 Woke kinfolk copper mug, chartreuse wolf vaporware everyday carry squid lumbersexual ascot gentrify truffaut pour-over cardigan. Echo park tumeric waistcoat fixie hoodie stumptown hella shabby chic wolf gatekeep truffaut. Flexitarian humblebrag crucifix bespoke. Photo booth succulents poke chillwave activated charcoal fixie. Actually bruh leggings, you probably haven't heard of them affogato raclette pabst whatever banjo adaptogen master cleanse. Copper mug bespoke poke scenester cred four dollar toast. Tumeric four dollar toast street art, craft beer pickled bitters offal single-origin coffee.
 
 I'm baby in jianbing artisan vibecession dolor, humblebrag readymade. Vexillologist Brooklyn magna etsy banjo. Dreamcatcher lorem meditation adaptogen taxidermy farm-to-table lyft chia minim austin succulents cliche pug. Bespoke paleo listicle praxis craft beer laborum tempor. Culpa dreamcatcher ugh lorem. In semiotics craft beer, synth austin enamel pin cray cronut. Squid bodega boys laborum gochujang fingerstache godard elit health goth bespoke.
